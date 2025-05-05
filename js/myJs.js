@@ -1,6 +1,6 @@
 const textConfig = {
   text1: "Biết fan hâm mộ này là ai k ?",
-  text2: "Nghi không biết là ai lắm =))))))",
+  text2: "Nghi không biết là ai lắm",
   text3: "Chỉ cần trả lời có hoặc không",
   text4: "Cái tầm không đoán được là cho sang Cam liền",
   text5: "Có",
@@ -10,7 +10,7 @@ const textConfig = {
   text9: "Chịu thôi",
   text10: "Xứng đáng sang Cam",
   text11:
-    "Chuẩn bị hành lý đi",
+    "Sang trang kế để làm thủ tục",
   text12: "Ocee ",
 };
 
